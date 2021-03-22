@@ -1,5 +1,5 @@
 # Stundenplan
-Dies ist ein Stundenplan gemacht in Vue.js
+In diesem Modul müssen wir Javascript lernen, besser gesagt client seitige Websiten. Am Schluss müssen wir eine Projektarbeit schreiben, bei der wir über einen rest-API Daten für einen Stundenplan fetchen sollen, und später den User den Zugang zu Stundenplänen geben sollen.
 
 https://vuejs.org/v2/cookbook/using-axios-to-consume-apis.html
 
