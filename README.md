@@ -3,6 +3,15 @@ Dies ist ein Stundenplan gemacht in Vue.js
 
 https://vuejs.org/v2/cookbook/using-axios-to-consume-apis.html
 
+## Ausgangslage
+
+### Wie vertraut bin ich schon mit diesem Thema?
+### Welches Vorwissen habe ich bereits?
+### Welche Fragen habe ich an das Thema?
+
+## Ziele
+
+# Stundenplan
 
 ## Mittwoch, 20.01.2021
 ## Mittwoch, 27.01.2021
