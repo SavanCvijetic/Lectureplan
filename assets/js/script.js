@@ -51,10 +51,14 @@ $(document).ready(
 
   function createTimetable()
   {
+    var classId = $('classSelection').val();
   }
 
   $('#occupationSelection').change(function(){
-  fetchClasses();
-  $('#class').fadeTo("slow", 1);
-  
-})
+    fetchClasses();
+    $('#class').fadeTo("slow", 1);
+  })
+
+  $('#classSelection').change(function() {
+    createTimetable();
+  })
