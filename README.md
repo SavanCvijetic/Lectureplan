@@ -24,9 +24,9 @@ https://vuejs.org/v2/cookbook/using-axios-to-consume-apis.html
 ## Mittwoch, 14.04.2021
 ## Mittwoch, 21.04.2021
 
-´´´´javascript
+```javascript
 if(true)
 {
   console.log('How u doing?');
 }
-´´´´
+```
