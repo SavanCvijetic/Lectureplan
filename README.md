@@ -10,9 +10,7 @@ https://vuejs.org/v2/cookbook/using-axios-to-consume-apis.html
 ### Welche Fragen habe ich an das Thema?
 
 ## Ziele
-[ ] A
-[x] B
-[ ] C
+
 # Stundenplan
 
 ## Mittwoch, 20.01.2021
