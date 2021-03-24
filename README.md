@@ -18,7 +18,9 @@ Dies ist eine etwas knifflige Frage, ich weiss nicht wirklich welche Fragen ich 
 # Lernjournal
 
 ## Mittwoch, 20.01.2021
-Heute hat das neue Module begonnen, in diesem Modul sollen wir 
+Heute hat das neue Module begonnen, in diesem Modul sollen wir lernen wie man Clientseitige Websiten ohne einen Server macht. Dann haben wir das Standardszenario erhalten, Quartalplan, aufgedrungen bekommen ein Lernjournal zu machen, Bewertungsrasten, usw....
+
+Was wir auch noch gemacht haben was dem Standardszenario nicht entspricht, wir haben einen kleinen Test gemacht indem wir herausfinden sollten, wie viel wir über das Thema schön wissen, ich habe dort komplett versagt. 37% hatte ich richtig :laughing:.
 
 ## Mittwoch, 27.01.2021
 ## Mittwoch, 03.02.2021
