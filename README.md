@@ -9,6 +9,7 @@ Wie schon erwähnt bin ich nicht wirkich sehr vertraut mit der Client-Seitigen v
 ### Welches Vorwissen habe ich bereits?
 Zu der Clientseitigen Validierung habe ich noch nicht so viele Erfahrungen sammeln können, besser gesagt Daten über eine API auslesen statt über einem Server, wie wir das im vorherigen Modul gelerent haben.
 ### Welche Fragen habe ich an das Thema?
+Dies ist eine etwas knifflige Frage, ich weiss nicht wirklich welche Fragen ich an dieses Modul habe oder nicht habe, ich denke wie ich Daten über eine API auslesen kann wäre sehr interessant.
 
 ## Ziele
 
