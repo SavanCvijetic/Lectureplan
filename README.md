@@ -5,6 +5,7 @@ In diesem Modul müssen wir Javascript lernen, besser gesagt client seitige Webs
 Ich habe keine Ahnung von Javascript in verbindung mit JQuery oder API's auslesen. Mit der Javascript Syntax bin ich vertraut. Im Geschäft programmiere ich mit Angular und zuhause mache ich immer wieder kleine Projekte mit Vue.
 
 ### Wie vertraut bin ich schon mit diesem Thema?
+Wie schon erwähnt bin ich nicht wirkich sehr vertraut mit der Client-Seitigen validierungm, ich kenne einfach die Grundlagen von Javascript frameworks. Ich denke jedeoch das ich es nicht schwer haben werde.
 ### Welches Vorwissen habe ich bereits?
 ### Welche Fragen habe ich an das Thema?
 
