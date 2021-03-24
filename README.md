@@ -7,11 +7,12 @@ Ich habe keine Ahnung von Javascript in verbindung mit JQuery oder API's auslese
 ### Wie vertraut bin ich schon mit diesem Thema?
 Wie schon erwähnt bin ich nicht wirkich sehr vertraut mit der Client-Seitigen validierungm, ich kenne einfach die Grundlagen von Javascript frameworks. Ich denke jedeoch das ich es nicht schwer haben werde.
 ### Welches Vorwissen habe ich bereits?
+Zu der Clientseitigen Validierung habe ich noch nicht so viele Erfahrungen sammeln können, besser gesagt Daten über eine API auslesen statt über einem Server, wie wir das im vorherigen Modul gelerent haben.
 ### Welche Fragen habe ich an das Thema?
 
 ## Ziele
 
-# Stundenplan
+# Lernjournal
 
 ## Mittwoch, 20.01.2021
 Heute hat das neue Module begonnen, in diesem Modul sollen wir 
