@@ -12,7 +12,9 @@ Zu der Clientseitigen Validierung habe ich noch nicht so viele Erfahrungen samme
 Dies ist eine etwas knifflige Frage, ich weiss nicht wirklich welche Fragen ich an dieses Modul habe oder nicht habe, ich denke wie ich Daten über eine API auslesen kann wäre sehr interessant.
 
 ## Ziele
-
+1. Lernen wie man Daten aus einer API ausliest.
+2. JQuery besser kennenlernen und entlich verstehen was es genau macht.
+3. Lernjournal Zeitgemäss schreiben.
 # Lernjournal
 
 ## Mittwoch, 20.01.2021
