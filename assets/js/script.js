@@ -1,13 +1,6 @@
 $(document).ready(fetchOccupations());
 
-const weekday = new Array(7);
-weekday[0] = "Sonntag";
-weekday[1] = "Montag";
-weekday[2] = "Dienstag";
-weekday[3] = "Mittwoch";
-weekday[4] = "Donnerstag";
-weekday[5] = "Freitag";
-weekday[6] = "Samstag";
+const week = {'Montag', 'Dienstag', 'Mittwoch', 'Donnerstag', 'Freitag', 'Samstag', 'Sonntag'};
 
   function fetchOccupations()
   {
@@ -49,14 +42,19 @@ weekday[6] = "Samstag";
 
       $('#class').html(classSelectionCode);
 
-      $.getJSON(classApi + occupationId, function(classesData) 
-      {
-        $.each(classesData, function(_classIndex, classData)
+      $.getJSON(classApi + occupationId)
+        .done(function(classesData) 
         {
-          $('<option value="' + classData.klasse_id + '">' + classData.klasse_longname + '</option>')
-          .appendTo($('#classSelection'));
+          $.each(classesData, function(_classIndex, classData)
+          {
+            $('<option value="' + classData.klasse_id + '">' + classData.klasse_longname + '</option>')
+            .appendTo($('#classSelection'));
+          })
         })
-      })
+        .fail(function(error)
+        {
+          console.log("Request Failed: " + error);
+        })
   }
 
   function fetchTimetable()
@@ -82,6 +80,26 @@ weekday[6] = "Samstag";
       })
     })
   }
+
+  function getWeek() 
+  {
+    return moment(
+      moment(storageGet('date')).format('WW-YYYY')
+    );
+  }
+  function updateWeek() 
+  {
+    return $('#week')
+      .text(`Woche 
+      ${moment(
+          moment(storageGet('date').format('WW-YYYY')))
+      }`
+    );
+  }
+  function getWeekday(dayIndex) {return week[dayIndex];}
+  function storageGet(key) {localStorage.getItem(key);}
+  function storageSave(key, value) {localStorage.setItem(key, value);}
+  function storageRemove(key) {localStorage.removeItem(key);}
 
   $('#occupationSelection').change(function(){
       fetchClasses();
