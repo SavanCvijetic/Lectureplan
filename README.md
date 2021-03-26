@@ -31,14 +31,40 @@ Ich hatte heute garkein Bock auf irgendetwas machen, ich weiss wirklich nicht wi
 :smiley: :mask: :cold_sweat:
 
 ## Mittwoch, 27.01.2021
+### Reflexion
+#### Emotionen
+
 ## Mittwoch, 03.02.2021
+### Reflexion
+#### Emotionen
+
 ## Mittwoch, 10.02.2021
-## Mittwoch, 03.03.2021
+### Reflexion
+#### Emotionen
+
+## Mittwoch, 03.03.2021 ( Homeoffice )
+### Reflexion
+#### Emotionen
+
 ## Mittwoch, 10.03.2021
+### Reflexion
+#### Emotionen
+
 ## Mittwoch, 17.03.2021
+### Reflexion
+#### Emotionen
+
 ## Mittwoch, 24.03.2021
+### Reflexion
+#### Emotionen
+
 ## Mittwoch, 14.04.2021
+### Reflexion
+#### Emotionen
+
 ## Mittwoch, 21.04.2021
+### Reflexion
+#### Emotionen
 
 ```javascript
 if(true)
