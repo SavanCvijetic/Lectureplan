@@ -20,7 +20,15 @@ Dies ist eine etwas knifflige Frage, ich weiss nicht wirklich welche Fragen ich 
 ## Mittwoch, 20.01.2021
 Heute hat das neue Module begonnen, in diesem Modul sollen wir lernen wie man Clientseitige Websiten ohne einen Server macht. Dann haben wir das Standardszenario erhalten, Quartalplan, aufgedrungen bekommen ein Lernjournal zu machen, Bewertungsrasten, usw....
 
-Was wir auch noch gemacht haben was dem Standardszenario nicht entspricht, wir haben einen kleinen Test gemacht indem wir herausfinden sollten, wie viel wir über das Thema schön wissen, ich habe dort komplett versagt. 37% hatte ich richtig :laughing::sleeping:.
+Was wir auch noch gemacht haben was dem Standardszenario nicht entspricht, neben der Coronainfos, haben wir haben einen kleinen Test gemacht indem wir herausfinden sollten, wie viel wir über das Thema schön wissen, ich habe dort komplett versagt. 37% hatte ich richtig :laughing::sleeping:.
+
+Die Begriffe wie DOM oder SOP, sind mir recht unbekannt, und ich hoffe das ich diese noch besser verstehen werde. Wir haben dann noch angeschaut welche Plugins hilfreich sein könnten für die Code-entwicklung. 
+
+### Reflexion
+Ich hatte heute garkein Bock auf irgendetwas machen, ich weiss wirklich nicht wieso aber ich habe irgendwie keinen Antrieb für irgendetwas machen, weshalb ich wahrscheinlich auch in diesem Test so dermassend verkackt habe.
+
+#### Emotionen
+:smiley: :mask: :cold_sweat:
 
 ## Mittwoch, 27.01.2021
 ## Mittwoch, 03.02.2021
