@@ -1,6 +1,6 @@
 $(document).ready(fetchOccupations());
 
-const week = {'Montag', 'Dienstag', 'Mittwoch', 'Donnerstag', 'Freitag', 'Samstag', 'Sonntag'};
+const week = ['Montag', 'Dienstag', 'Mittwoch', 'Donnerstag', 'Freitag', 'Samstag', 'Sonntag'];
 
   function fetchOccupations()
   {

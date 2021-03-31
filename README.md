@@ -31,6 +31,9 @@ Ich hatte heute garkein Bock auf irgendetwas machen, ich weiss wirklich nicht wi
 :smiley: :mask: :cold_sweat:
 
 ## Mittwoch, 27.01.2021
+Ich habe heute morge vor dem Unterricht im Auto noch das Vorbereitungsvideo von Herr Brodbeck angehört damit ich ein wenig vorbereitet bin für den Unterricht, es erschien mir alles recht simpel.
+
+Im Unterricht selber haben wir dann verschiedene Begriffe und Funktionen angeschaut die im Video von Herr Brodbeck gezeigt worden waren
 ### Reflexion
 #### Emotionen
 
