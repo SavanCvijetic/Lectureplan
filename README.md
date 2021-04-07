@@ -35,11 +35,21 @@ Ich habe heute morge vor dem Unterricht im Auto noch das Vorbereitungsvideo von 
 
 Im Unterricht selber haben wir dann verschiedene Begriffe und Funktionen angeschaut die im Video von Herr Brodbeck gezeigt worden waren. Dann haben wir noch Debugger angeschaut, ich war die nicht wirklich mit den Gedanken dabei, da ich eigentlich immer mit Konsole logger programmiere.
 
+#### Javascript
 ```javascript
   console.log('Dashn Konsole eingabe!');
 ```
-```javascript
+#### C++
+```
   console.log('Dashn Konsole eingabe!');
+```
+#### C#
+```
+  Console.WriteLine('Dashn Konsole eingabe!');
+```
+#### Python
+```
+  print("Dashn Konsole eingabe!");
 ```
 
 Dann kam die erste Aufgabe des Tages
