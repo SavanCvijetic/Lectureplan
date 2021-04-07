@@ -54,7 +54,12 @@ Im Unterricht selber haben wir dann verschiedene Begriffe und Funktionen angesch
 
 Ich finde diese Art einfach angenehmer, mir ist zwar bewusst das die Debugger von Visual Studio oder die extensions von Visual Studio Code besser sind, aber ich bin jetzt einfach gewohnt so zu Entwickeln.
 
-Dann kam die erste Aufgabe des Tages
+Dann kam die erste Aufgabe des Tages => eine Slot machine, da würde ich hellhörig. Ich habe das extrem interessant gefunden. Wenn drei gleiche Symbole gezeigt werden bekommt der Spieler Geld wenn nicht verliert der Spieler Geld.
+
+SlotMachine
+-----------
+x | x | x
+
 ### Reflexion
 #### Emotionen
 
