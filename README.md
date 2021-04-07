@@ -40,15 +40,15 @@ Im Unterricht selber haben wir dann verschiedene Begriffe und Funktionen angesch
   console.log('Dashn Konsole eingabe!');
 ```
 #### C++
-```
-  console.log('Dashn Konsole eingabe!');
+```C++
+  std::cout << 'Dashn Konsole eingabe!' << std::endl;
 ```
 #### C#
-```
+```C#
   Console.WriteLine('Dashn Konsole eingabe!');
 ```
 #### Python
-```
+```python
   print("Dashn Konsole eingabe!");
 ```
 
