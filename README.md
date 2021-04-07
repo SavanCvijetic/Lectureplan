@@ -52,6 +52,8 @@ Im Unterricht selber haben wir dann verschiedene Begriffe und Funktionen angesch
   print("Dashn Konsole eingabe!");
 ```
 
+Ich finde diese Art einfach angenehmer, mir ist zwar bewusst das die Debugger von Visual Studio oder die extensions von Visual Studio Code besser sind, aber ich bin jetzt einfach gewohnt so zu Entwickeln.
+
 Dann kam die erste Aufgabe des Tages
 ### Reflexion
 #### Emotionen
