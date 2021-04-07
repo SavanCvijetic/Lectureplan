@@ -59,11 +59,13 @@ Dann kam die erste Aufgabe des Tages => eine Slot machine, da würde ich hellhö
  Slot machine | Slot machine |  Slot machine
 ------------ | ------------ | ------------
 ............. | ............ | ............
+
 Wenn dieses Szenario zutrifft, bekommt der Spieler das Geld oder auch Jackpot und er kann weiter machen.
 
  Slot machine | Slot machine |  Slot machine
 ------------ | ------------ | ------------
 ............. | //////////// | ............
+
 Wenn dieses Szenario zutrifft, verliert der Spieler das eingesetzte Geld.
 
 ### Reflexion
