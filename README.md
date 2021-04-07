@@ -74,6 +74,7 @@ Das ging gut, und ich konnte es sehr schnell lösen, die methoden und alles konn
 Heute hatte ich am Anfang garkein Bock, jedoch fing es an spass zu machen nachdem wir auch eine praktische Aufgabe erhielten, dort hat es wirklich gut getan ich bin in den "fokus Modus" rein und konnte richtig gut programmieren was mir auch persönlich gut getan hat und ich nachdem ziemlich glücklich war.
 
 #### Emotionen
+:sunglasses: :zzz: :relieved:	
 
 ## Mittwoch, 03.02.2021
 ### Reflexion
