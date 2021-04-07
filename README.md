@@ -68,7 +68,11 @@ Wenn dieses Szenario zutrifft, bekommt der Spieler das Geld oder auch Jackpot un
 
 Wenn dieses Szenario zutrifft, verliert der Spieler das eingesetzte Geld.
 
+Das ging gut, und ich konnte es sehr schnell lösen, die methoden und alles konnte ich sehr schnell im Internet finden und diese zusammen puzzlen, somit war ich am ende des Tages fertig mit der Aufgabe.
+
 ### Reflexion
+Heute hatte ich am Anfang garkein Bock, jedoch fing es an spass zu machen nachdem wir auch eine praktische Aufgabe erhielten, dort hat es wirklich gut getan ich bin in den "fokus Modus" rein und konnte richtig gut programmieren was mir auch persönlich gut getan hat und ich nachdem ziemlich glücklich war.
+
 #### Emotionen
 
 ## Mittwoch, 03.02.2021
