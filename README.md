@@ -38,8 +38,8 @@ Im Unterricht selber haben wir dann verschiedene Begriffe und Funktionen angesch
 ```javascript
   console.log('Dashn Konsole eingabe!');
 ```
-```javascript
-  console.log('Dashn Konsole eingabe!');
+```c++
+  std::cout << "Dashn Konsole eingabe!" << std::endl;
 ```
 
 Dann kam die erste Aufgabe des Tages
