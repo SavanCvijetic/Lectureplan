@@ -56,8 +56,8 @@ Ich finde diese Art einfach angenehmer, mir ist zwar bewusst das die Debugger vo
 
 Dann kam die erste Aufgabe des Tages => eine Slot machine, da würde ich hellhörig. Ich habe das extrem interessant gefunden. Wenn drei gleiche Symbole gezeigt werden bekommt der Spieler Geld wenn nicht verliert der Spieler Geld.
 
-SlotMachine
------------
+< | Slot machine | >
+------------ | ------------ | ------------
 x | x | x
 
 ### Reflexion
