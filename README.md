@@ -99,10 +99,15 @@ Heute waren die Vorträge der von Herr Brodbeck verteilten Themen dran. Mein Vor
 Nils, Elias und Natasha haben uns das Thema **SOP / CORS** gezeigt, ich fand ihren Vortrag recht interessant, jedoch war das Layout des Vortrages so gemacht, das es recht kompliziert ausgesehen hat, aber im grossen und ganzen ist **SOP** dazu da um die Kommunikation zwischen zwei Domains zu unterbinden. **CORS** macht einfach das gegenteil, es erlaubt die Kommunikation zwischen zwei verschiedenen Domains.
 
 ### AJAX MIT xmlHttpRequest / fetch()
-Julien, Maurica und Johannes haben uns das Thema **AJAX** näher gebracht. **AJAX** heisst **A**synchronous **J**avascript **A**nd **X**ML. **AJAX** ermöglicht die einfache kommunikation zwischen Webbrowser und Webserver ohne die Seite neu laden zu müssen.
+Julien, Maurica und Johannes haben uns das Thema **AJAX** näher gebracht. **AJAX** heisst **A**synchronous **J**avascript **A**nd **X**ML. **AJAX** ermöglicht die einfache kommunikation zwischen Webbrowser und Webserver ohne die Seite neu laden zu müssen. Das wusste ich schon. Ich war hier schon familiär mit dem Thema weil ich hier schon privat recherchiert habe und mal reingesehen habe. Was ich aber interessant fand waren die HTTP staten:
+
+##### 200 => OK
+##### 404 => PAGE NOT FOUND
+##### 500 => INTERNAL SERVER ERROR
+##### 503 => UNAVAILABLE SERVICE
 
 ### Bootstrap
-Chris, Yanick, Aleks und Sara hatten das Thema **Bootstrap**, sie haben uns gezeigt wie es entstanden ist, was es ist und wie man es nutzt. Dann gibt es zwei Methoden wie man Bootstrap benutzen kann, da es eine Design Framework ist. Die eine Methode bei der man Bootstrap lokal installiert finde ich persönlich nicht so ansprechend. Die Variante bei der man die Links direkt ins HTML file einbettet finde ich besser.
+Chris, Yanick, Aleks und Sara hatten das Thema **Bootstrap**, sie haben uns gezeigt wie es entstanden ist, was es ist und wie man es nutzt. Dann gibt es zwei Methoden wie man Bootstrap benutzen kann, da es eine Design Framework ist. Die eine Methode bei der man Bootstrap lokal installiert finde ich persönlich nicht so ansprechend. Die Variante bei der man die Links direkt ins HTML file einbettet finde ich besser. 
 
 #### Link einfügen für CSS
 ```javascript
