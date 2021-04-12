@@ -95,16 +95,36 @@ Ja heute war ein Tag andem ich wirklich garkein Bock hatte, dementsprechend war 
 ## Mittwoch, 10.02.2021
 Heute waren die Vorträge der von Herr Brodbeck verteilten Themen dran. Mein Vortrag, also von Yassin, Samuel und mir wurde verschoben, da Samuel krank war.
 
-### CORS / SOP
+### SOP / CORS
+Nils, Elias und Natasha haben uns das Thema **SOP / CORS** gezeigt, ich fand ihren Vortrag recht interessant, jedoch war das Layout des Vortrages so gemacht, das es recht kompliziert ausgesehen hat, aber im grossen und ganzen ist **SOP** dazu da um die Kommunikation zwischen zwei Domains zu unterbinden. **CORS** macht einfach das gegenteil, es erlaubt die Kommunikation zwischen zwei verschiedenen Domains.
 
 ### AJAX MIT xmlHttpRequest / fetch()
 
 ### Bootstrap
+Chris, Yanick, Aleks und Sara hatten das Thema **Bootstrap**, sie haben uns gezeigt wie es entstanden ist, was es ist und wie man es nutzt. Dann gibt es zwei Methoden wie man Bootstrap benutzen kann, da es eine Design Framework ist. Die eine Methode bei der man Bootstrap lokal installiert finde ich persönlich nicht so ansprechend. Die Variante bei der man die Links direkt ins HTML file einbettet finde ich besser.
+
+#### Link einfügen für CSS
+```javascript
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" 
+      rel="stylesheet" 
+      integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" 
+      crossorigin="anonymous">
+```
+
+#### Script einfügen für JS
+```javascript
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js" 
+        integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW" 
+        crossorigin="anonymous"></script>
+```
 
 ### jQuery
 
 ### Reflexion
+
+
 #### Emotionen
+:clown_face: :relaxed: :joy:
 
 ## Mittwoch, 03.03.2021 ( Homeoffice )
 ### Reflexion
