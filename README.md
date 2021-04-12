@@ -77,7 +77,14 @@ Heute hatte ich am Anfang garkein Bock, jedoch fing es an spass zu machen nachde
 :sunglasses: :zzz: :relieved:	
 
 ## Mittwoch, 03.02.2021 ( Brodbeck krank )
-Heute hatten wir online Unterricht, da Herr Brodbeck krank war. Ich habe nichts gemacht, mir war die Ablenkung zu gross. Oke etwas habe ich gemacht, ich habe mich für ein Vortragsthema entschieden, und zwar *Local* und *Session* Storage. Natürlich auch die Abstimmung ob wir ein Kriterium für die Bewertung der Vorträge weglassen oder bleiben lassen.
+
+### 08:05 - 11:35
+Heute hatten wir online Unterricht, da Herr Brodbeck krank war. Ich habe nichts gemacht, mir war die Ablenkung zu gross. Oke etwas habe ich gemacht, ich habe mich für ein Vortragsthema entschieden, und zwar *Local* und *Session* Storage. Natürlich auch die Abstimmung ob wir ein Kriterium für die Bewertung der Vorträge weglassen oder bleiben lassen. 
+
+Im Endeffekt wurde die Zeit weggelassen und dann alles gleich bewertet, also eigentlich wie am Anfang einfach das wir das Kriterium **Zeit**. Nachdem habe ich am morgen nicht mehr gemacht. Ich habe noch ein wenig League of Legends gespielt :smiley:
+
+### 18:00 - 20:00
+Ich habe mich ein wenig schlecht Gefühlt besser gesagt mein Gewissen, um das zu ändern habe ich begonnen an meiner Projektarbeit zu programmieren, ich habe ein wenig in Bootstrap eingelesen und erst erfahren was es alles kann welche möglichkeiten es alles gibt, indem man nur andere Klassen anspricht, was ich auch noch gemacht habe, war die Kriterien der Projektarbeit gelesen, um zu sehen was Herr Brodbeck genau alles sehen will bei der Projektarbeit, bei gewissen war ich Ahnungslos, ich habe nicht genau verstanden was mit dem User mitzuteilen wenn sich etwas ändert. Im nachinein habe ich verstanden das man einfach immer eine kleine Animation wenn sich eine User-selection ändert.
 ### Reflexion
 #### Emotionen
 
