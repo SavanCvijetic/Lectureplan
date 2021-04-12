@@ -173,4 +173,12 @@ Heute war ein echt entspannter Tag, man konnte richtig entspannen, und einfach z
 ### Reflexion
 #### Emotionen
 
+# Lernprozess
 
+## Was kann ich nun mehr wie vorher?
+## Was ist mir besonders gut gelungen, worauf bin ich richtig stolz?
+## Woran erkennen meine Arbeitskollegen, dass ich dieses Modul besucht habe?
+## Wo könnte das Wissen zu diesem Modul in meiner Arbeit nützlich sein?
+## Welche Fragen sind offen geblieben?
+## Wie habe ich die am Anfang gesteckten Ziele erreicht?
+## Was hat mir geholfen, diese Ziele zu erreichen?
