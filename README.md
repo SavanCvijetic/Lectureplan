@@ -93,6 +93,16 @@ Ja heute war ein Tag andem ich wirklich garkein Bock hatte, dementsprechend war 
 :sleepy: :hand_over_mouth: :innocent:
 
 ## Mittwoch, 10.02.2021
+Heute waren die Vorträge der von Herr Brodbeck verteilten Themen dran. Mein Vortrag, also von Yassin, Samuel und mir wurde verschoben, da Samuel krank war.
+
+### CORS / SOP
+
+### AJAX MIT xmlHttpRequest / fetch()
+
+### Bootstrap
+
+### jQuery
+
 ### Reflexion
 #### Emotionen
 
