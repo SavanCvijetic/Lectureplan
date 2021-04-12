@@ -76,7 +76,8 @@ Heute hatte ich am Anfang garkein Bock, jedoch fing es an spass zu machen nachde
 #### Emotionen
 :sunglasses: :zzz: :relieved:	
 
-## Mittwoch, 03.02.2021
+## Mittwoch, 03.02.2021 ( Brodbeck krank )
+Heute hatten wir online Unterricht, da Herr Brodbeck krank war. Ich habe nichts gemacht, mir war die Ablenkung zu gross. Oke etwas habe ich gemacht, ich habe mich für ein Vortragsthema entschieden, und zwar *Local* und *Session* Storage. Natürlich auch die Abstimmung ob wir ein Kriterium für die Bewertung der Vorträge weglassen oder bleiben lassen.
 ### Reflexion
 #### Emotionen
 
