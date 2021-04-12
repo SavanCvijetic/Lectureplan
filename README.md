@@ -118,7 +118,20 @@ Chris, Yanick, Aleks und Sara hatten das Thema **Bootstrap**, sie haben uns geze
         crossorigin="anonymous"></script>
 ```
 
+Ansonsten haben sie uns noch die verschiedenen Komponenten von Bootstrap gezeigt wie zum Beispiel Grids, Forms oder Buttons. Was sie auch gezeigt haben war das Bootstrap responsive ist, und was die Vor- und Nachteile von Bootstrap sind. 
+
 ### jQuery
+Paul und Andy haben uns JQuery gezeigt. Auch wieder das übliche was ist es, wie nutzt man es, Vor- und Nachteile etc.... Ich habe nicht wirklich zugehört, da ich mich privat schon mit jQuery befasst habe und ein solides Grundwissen schon angeignet habe, somit habe ich als Sie den Vortrag gehalten haben Luftlöcher gestart. Aber hier das wichtigste in kürze.
+
+#### Einbinden in den Code
+```javascript
+<script scr="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js" ></script>
+```
+
+#### Checken ob der DOM geladen ist
+```javascript
+$(document).ready("Do Something");
+```
 
 ### Reflexion
 
