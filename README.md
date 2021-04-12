@@ -81,7 +81,7 @@ Heute hatte ich am Anfang garkein Bock, jedoch fing es an spass zu machen nachde
 ### 08:05 - 11:35
 Heute hatten wir online Unterricht, da Herr Brodbeck krank war. Ich habe nichts gemacht, mir war die Ablenkung zu gross. Oke etwas habe ich gemacht, ich habe mich für ein Vortragsthema entschieden, und zwar *Local* und *Session* Storage. Natürlich auch die Abstimmung ob wir ein Kriterium für die Bewertung der Vorträge weglassen oder bleiben lassen. 
 
-Im Endeffekt wurde die Zeit weggelassen und dann alles gleich bewertet, also eigentlich wie am Anfang einfach das wir das Kriterium **Zeit**. Nachdem habe ich am morgen nicht mehr gemacht. Ich habe noch ein wenig League of Legends gespielt :smiley:
+Im Endeffekt wurde die Zeit weggelassen und dann alles gleich bewertet, also eigentlich wie am Anfang einfach das wir das Kriterium **Zeit** wegliessen. Nachdem habe ich am morgen nicht mehr gemacht. Ich habe noch ein wenig League of Legends gespielt :smiley:
 
 ### 18:00 - 20:00
 Ich habe mich ein wenig schlecht Gefühlt besser gesagt mein Gewissen, um das zu ändern habe ich begonnen an meiner Projektarbeit zu programmieren, ich habe ein wenig in Bootstrap eingelesen und erst erfahren was es alles kann welche möglichkeiten es alles gibt, indem man nur andere Klassen anspricht, was ich auch noch gemacht habe, war die Kriterien der Projektarbeit gelesen, um zu sehen was Herr Brodbeck genau alles sehen will bei der Projektarbeit, bei gewissen war ich Ahnungslos, ich habe nicht genau verstanden was mit dem User mitzuteilen wenn sich etwas ändert. Im nachinein habe ich verstanden das man einfach immer eine kleine Animation wenn sich eine User-selection ändert. Um 20:00 Uhr war mein Gewissen wieder besser und ich habe mit Paul League of Legends gespielt :rofl:
@@ -133,8 +133,10 @@ Paul und Andy haben uns JQuery gezeigt. Auch wieder das übliche was ist es, wie
 $(document).ready("Do Something");
 ```
 
-### Reflexion
+Nachdem alle Präsentation gehalten worden sind, hatten wir noch Zeit an der Slot-machine zu arbeiten, da ich aber schon fertig war, habe ich Youtube videos geschaut.
 
+### Reflexion
+Heute war ein echt entspannter Tag, man konnte richtig entspannen, und einfach zuhören. So konnte eigentlich jeder Morgen verlaufen einfach nur entspannt. Ich bin ehrlich manchmal bin ich fast eingeschlafen da ich extrem müde war, ich konnte mich aber immer wieder fangen, und zuhören, ich war jedoch ein wenig verunsichert das meine Gruppe den Vortrag nicht gehalten hatte, und dieser verschoben wurde aber ich denke das ist eine normale reaktion das die anderen es einfach hinter sich hatten und ich hatte es noch vor mir.
 
 #### Emotionen
 :clown_face: :relaxed: :joy:
