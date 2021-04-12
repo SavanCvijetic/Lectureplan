@@ -106,6 +106,8 @@ Julien, Maurica und Johannes haben uns das Thema **AJAX** näher gebracht. **AJA
 ##### 500 => INTERNAL SERVER ERROR
 ##### 503 => UNAVAILABLE SERVICE
 
+Das fand ich noch cool, da man dieser Fehler codes immer wieder erhaltet wenn man durchs Web surfed. Dieser Vortrag fand ich am witzigsten da ich bei Juliens Vorträge immer lachen muss ich weiss nicht wieso aber ich muss da immer lachen.
+
 ### Bootstrap
 Chris, Yanick, Aleks und Sara hatten das Thema **Bootstrap**, sie haben uns gezeigt wie es entstanden ist, was es ist und wie man es nutzt. Dann gibt es zwei Methoden wie man Bootstrap benutzen kann, da es eine Design Framework ist. Die eine Methode bei der man Bootstrap lokal installiert finde ich persönlich nicht so ansprechend. Die Variante bei der man die Links direkt ins HTML file einbettet finde ich besser. 
 
