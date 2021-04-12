@@ -84,9 +84,13 @@ Heute hatten wir online Unterricht, da Herr Brodbeck krank war. Ich habe nichts 
 Im Endeffekt wurde die Zeit weggelassen und dann alles gleich bewertet, also eigentlich wie am Anfang einfach das wir das Kriterium **Zeit**. Nachdem habe ich am morgen nicht mehr gemacht. Ich habe noch ein wenig League of Legends gespielt :smiley:
 
 ### 18:00 - 20:00
-Ich habe mich ein wenig schlecht Gefühlt besser gesagt mein Gewissen, um das zu ändern habe ich begonnen an meiner Projektarbeit zu programmieren, ich habe ein wenig in Bootstrap eingelesen und erst erfahren was es alles kann welche möglichkeiten es alles gibt, indem man nur andere Klassen anspricht, was ich auch noch gemacht habe, war die Kriterien der Projektarbeit gelesen, um zu sehen was Herr Brodbeck genau alles sehen will bei der Projektarbeit, bei gewissen war ich Ahnungslos, ich habe nicht genau verstanden was mit dem User mitzuteilen wenn sich etwas ändert. Im nachinein habe ich verstanden das man einfach immer eine kleine Animation wenn sich eine User-selection ändert.
+Ich habe mich ein wenig schlecht Gefühlt besser gesagt mein Gewissen, um das zu ändern habe ich begonnen an meiner Projektarbeit zu programmieren, ich habe ein wenig in Bootstrap eingelesen und erst erfahren was es alles kann welche möglichkeiten es alles gibt, indem man nur andere Klassen anspricht, was ich auch noch gemacht habe, war die Kriterien der Projektarbeit gelesen, um zu sehen was Herr Brodbeck genau alles sehen will bei der Projektarbeit, bei gewissen war ich Ahnungslos, ich habe nicht genau verstanden was mit dem User mitzuteilen wenn sich etwas ändert. Im nachinein habe ich verstanden das man einfach immer eine kleine Animation wenn sich eine User-selection ändert. Um 20:00 Uhr war mein Gewissen wieder besser und ich habe mit Paul League of Legends gespielt :rofl:
+
 ### Reflexion
+Ja heute war ein Tag andem ich wirklich garkein Bock hatte, dementsprechend war auch meine Arbeitsmoral sehr niedrig, und ich habe am Morgen nichts effizientes gemacht, jedoch kam mein Gewissen am Abend und dann habe ich mich doch noch irgendwie überwunden und habe etwas für das Modul gemacht, es hat gut getan und hat mir ein gutes Gefühl gegeben eins das ich gern wieder habe will, jedoch ist meine gesamt Motivation recht gering und ich kann mich nur schwer für etwas überwinden. Mal sehen wie es in der Zukunft sein wird, ich bin gespannt.
+
 #### Emotionen
+:sleepy: :hand_over_mouth: :innocent:
 
 ## Mittwoch, 10.02.2021
 ### Reflexion
