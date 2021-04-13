@@ -150,6 +150,13 @@ Heute war ein echt entspannter Tag, man konnte richtig entspannen, und einfach z
 :clown_face: :relaxed: :joy:
 
 ## Mittwoch, 03.03.2021 ( Homeoffice )
+
+### 08:05 - 11:35
+Heute war Online-Unterricht dran, dies muss man jetzt anscheinend machen, da dies die Lehrpersonen trainieren sollte wie sie in so eine Situation handeln sollten und das ein Chaos vorbeugen soll. **Onlineschooling** das ist eine Sache für sich. Ich habe **garnichts** gemacht, ich habe League Of Legends gezockt. Dann habe ich noch ein wenig Youtube Videos geschaut und bisschen mit den anderen gequaselt. Im grossen und ganzen habe ich eher gechillt wie gearbeitet.
+
+### 17:30 - 21:00
+Ich habe mit Yassin und Samuel begonnen den Vortrag für den Unterricht zu machen, wir haben es dann in drei Teile unterteilt. Yassin hat die Erklärung und den Nutzungszweck erhalten, Samuel den Verwendungszweck und Cookies und ich habe die Browser und Sicherheit der **Local- und Sessionstorages** erhalten. Ich habe mich dann informiert und geschaut wie man das am besten Vortragen kann. Im endeffekt habe ich es dann hinbekommen und irendwie geschafft einen anständigen Vortrag hinzubeh
+
 ### Reflexion
 #### Emotionen
 
