@@ -158,7 +158,9 @@ Heute war Online-Unterricht dran, dies muss man jetzt anscheinend machen, da die
 Ich habe mit Yassin und Samuel begonnen den Vortrag für den Unterricht zu machen, wir haben es dann in drei Teile unterteilt. Yassin hat die Erklärung und den Nutzungszweck erhalten, Samuel den Verwendungszweck und Cookies und ich habe die Browser und Sicherheit der **Local- und Sessionstorages** erhalten. Ich habe mich dann informiert und geschaut wie man das am besten Vortragen kann. Im endeffekt habe ich es dann hinbekommen und irendwie geschafft einen anständigen Vortrag hinzubeh
 
 ### Reflexion
+Heute war ein gwohnter Tag an dem ich am morgen einfach nichts gemacht habe, ich weiss nicht wieso aber zuhause kann ich für die Schule einfach nicht arbeiten. Es fehlt mir ziemlich schwer, ich lasse mich einfach sehr schnell ablenken und ich weiss nicht wieso das passiert aber es passiert einfach. Was ich dann jedoch komisch finde ist, das wenn ich dann in der Freizeit arbeite ich dann irgendwie richt lust bekomme an den Schulsachen zu arbeiten.
 #### Emotionen
+:dizzy_face: :yawning_face: :clown_face: 
 
 ## Mittwoch, 10.03.2021
 ### Reflexion
