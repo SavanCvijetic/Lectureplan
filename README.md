@@ -205,10 +205,14 @@ Heute war ein echt produktiver Tag im gegenteil zu den vorherigen Tagen, ich gla
 #### Emotionen
 :partying_face: :hot_face: :mask:
 
-
 ## Mittwoch, 17.03.2021
+Heute habe ich nichts gemacht wirklich garnicht, ich kann heute nicht wirklich etwas reinschreiben, ausser das ich Netflix geschaut habe und mit den anderen geredet habe.
+
 ### Reflexion
+Ja heute war ich richtig motivationslos, es war schlimm aber ich kann jetzt nichts dran ändern.
+
 #### Emotionen
+:confused: :sob: :disappointed_relieved:
 
 ## Mittwoch, 24.03.2021
 ### Reflexion
