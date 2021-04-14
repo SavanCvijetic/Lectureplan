@@ -163,8 +163,48 @@ Heute war ein gwohnter Tag an dem ich am morgen einfach nichts gemacht habe, ich
 :dizzy_face: :yawning_face: :clown_face: 
 
 ## Mittwoch, 10.03.2021
+Heute war der Tag der Abbrechung für meine Gruppe. Wir hatten unsere Vortrag über die **Local- und Sessionstorages**. Dieser verlief echt gut und wir haben eine ***5.7*** erhalten, dies hat mich echt glücklich gemacht. Was ich aber beim Vortrag noch gelernt habe, war wie man in die jeweiligen storages agieren kann.
+
+### Local-storage
+```javascript
+//Daten im localStorage speichern
+localStorage.setItem('key', 'value');
+
+//Gespeicherte Daten aus dem localStorage abfragen
+var data = localStorage.getItem('key');
+
+// Gespeicherte Daten aus dem localStorage entfernen
+localStorage.removeItem('key');
+
+//Alle gespeicherten Daten aus dem localStorage entfernen
+localStorage.clear();
+```
+
+### Session-storage
+```javascript
+//Daten im sessionStorage speichern
+sessionStorage.setItem('key', 'value');
+
+//Gespeicherte Daten aus dem sessionStorage abfragen
+var data = sessionStorage.getItem('key');
+
+// Gespeicherte Daten aus dem sessionStorage entfernen
+sessionStorage.removeItem('key');
+
+//Alle gespeicherten Daten aus dem sessionStorage entfernen
+sessionStorage.clear();
+```
+
+Im Grunde genommen genau gleich einfach das man beim localStorage **localStorage** braucht und beim sessionStorage **sessionStorage** braucht. 
+
+Nachdem Vortrag haben wir einen **AJAX** auftrag erhalten, ich habe da aber nichts gemacht ich habe an meiner Projektarbeit weiter gearbeitet und nebenbei noch Musik gehört ich bin recht weit gekommen und habe die beiden Dropdowns für den Beruf und die Klassen gemacht.
+
 ### Reflexion
+Heute war ein echt produktiver Tag im gegenteil zu den vorherigen Tagen, ich glaube das lag einfach dran das ich eine gute Note erhalten habe und dies meine Motivation geboosted hat, und ich somit besser arbeiten konnte.
+
 #### Emotionen
+:partying_face: :hot_face: :mask:
+
 
 ## Mittwoch, 17.03.2021
 ### Reflexion
