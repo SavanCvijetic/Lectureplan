@@ -215,8 +215,34 @@ Ja heute war ich richtig motivationslos, es war schlimm aber ich kann jetzt nich
 :confused: :sob: :disappointed_relieved:
 
 ## Mittwoch, 24.03.2021
+Heute habe ich weiter an der Projektarbeit gearbeitet, und ich habe mich entschieden alles wegzuwerfen und mit **vue.js** zu beginnen, also die Projektarbeit mit **vue.js** statt **Javascript, AJAX & jQuery** zu machen. Der Grund dafür ist, das ich die Technologien die wir im Unterricht durchgenommen haben jetzt einigermassen verstehe und diese nicht mehr brauche. Da ich die **JavaScript Frameworks** extrem interessant finde und wie sich diese in der Entwicklerszene entabliert haben, fand ich es für angemessen eins diese **Javascript Frameworks** zu perfektionieren und da habe ich mich für **vue.js** entschieden, ich habe viel recherchiert im Internet und gefunden das diese Framework am besten zu mir passt. **Angular** war für mich kein Thema, da ich es im Geschäft nutze und es mir schon manchmal die Lust am Entwickeln genommen hat. Zu **React** da kann ich nur sagen, das es für mich am Anfang noch zu komplex erscheint ich denke in der Zukunft wäre es bestimmt ein Thema welches man anschauen kann jedoch mit meinem momentanen Wissen über die ***Web-Entwicklung*** denke ich das **vue.js** eine gute Wahl ist.
+
+## Vue.js installieren
+
+```javascript
+// Vue auf dem Rechner installieren
+npm install -g @vue/cli
+
+//Vue version update machen, um auf der aktuellsten Version zu sein
+npm update -g @vue/cli
+
+// Vue Projekt erstellen
+vue create project
+
+// Zum Arbeitordner gehen
+cd project
+
+// Vue Applikation laufen lassen
+npm run serve
+```
+
+So erstellt und lässt man eine Vue Applikation laufen. Ich habe dann begonnen die Components zu erstellen die notwendigen API's hinzuzufügen und habe auf den Stand der alten Applikation programmiert sprich wieder die Dropdowns hinzugefügt.
+
 ### Reflexion
+Heute habe ich nichts zu tun gehabt, deshalb habe ich entschieden das nichts tun vom Mittwoch nachzuhole und habe einfach mal gemacht, es ging echt gut ich denke auch weil ich etwas gemacht habe das mich wirklich interessiert hat, und nicht etwas was mir vorgeschrieben wird.
+
 #### Emotionen
+:stuck_out_tongue_closed_eyes: :blush: :exploding_head:
 
 ## Mittwoch, 14.04.2021
 ### Reflexion
