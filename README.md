@@ -274,6 +274,7 @@ Bei mir sind keine Fragen offen geblieben.
 ## Wie habe ich die am Anfang gesteckten Ziele erreicht?
 - [x] Lernen wie man Daten aus einer API ausliest.
 - [x] JQuery besser kennenlernen und entlich verstehen was es genau macht.
-- [ ] Lernjournal Zeitgemäss schreiben.
-- 
+- [x] Lernjournal Zeitgemäss schreiben.
+
 ## Was hat mir geholfen, diese Ziele zu erreichen?
+Mich gezwungen meinen Arsch zu bewegen und meine Freundin hat mich auch sehr unterstützt.
