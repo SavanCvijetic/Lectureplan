@@ -256,11 +256,24 @@ Heute war ein sehr efolgreicher Tag ich konnte mein Lernjournal fertigstellen es
 :smile: :smiling_face_with_three_hearts: :zany_face:
 
 # Lernprozess
-
 ## Was kann ich nun mehr wie vorher?
+Ich habe zwei Sachen die ich besonders gelernt habe und zwar einerseits das ich jetzt **vue.js** behhersche und anderseit das ich die **markdown syntax** gelernt habe und diese auch nutzen kann was ich denke für Zukünftige Projekt sei es wenn ich ein Framework schreibe oder sonstiges kann ich eine gute Dokumentation dazu schreiben kann.
+
 ## Was ist mir besonders gut gelungen, worauf bin ich richtig stolz?
+Also was ich wirklich sagen kann, ist das mein Lernjournal eine ***6.0*** verdient hat, ich möchte mich jetzt nicht selber loben, aber verdammt mein Lernjournal ist :fire:.
+
 ## Woran erkennen meine Arbeitskollegen, dass ich dieses Modul besucht habe?
+Sie haben keinen Anruf von Herr Brodbeck erhalten :stuck_out_tongue_closed_eyes:.
+
 ## Wo könnte das Wissen zu diesem Modul in meiner Arbeit nützlich sein?
+Momentaner Lehrstelle nicht wirklich jedoch wenn ich selber Projekte mache können diese nützlich sein.
+
 ## Welche Fragen sind offen geblieben?
+Bei mir sind keine Fragen offen geblieben.
+
 ## Wie habe ich die am Anfang gesteckten Ziele erreicht?
+- [x] Lernen wie man Daten aus einer API ausliest.
+- [x] JQuery besser kennenlernen und entlich verstehen was es genau macht.
+- [ ] Lernjournal Zeitgemäss schreiben.
+- 
 ## Was hat mir geholfen, diese Ziele zu erreichen?
