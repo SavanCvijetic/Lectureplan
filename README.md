@@ -245,12 +245,15 @@ Heute habe ich nichts zu tun gehabt, deshalb habe ich entschieden das nichts tun
 :stuck_out_tongue_closed_eyes: :blush: :exploding_head:
 
 ## Mittwoch, 14.04.2021
-### Reflexion
-#### Emotionen
+Während den Ferien habe ich meine Projektarbeit fertig programmiert, ich habe wirklich manchmal meinen Computer geschlagen oder meine Monitoren aus dem Fenster rauswerfen wollen, da **vue.js** mich wirklich zum verzweifeln gebracht hat und manchmal sogar wütend ich konnte mich jedoch immer wieder fassen und konnte es dann fortsetzen. Ich habe extrem viel über die **vue.js componets** gelernt und wie nützlich diese sei können. Was auch cool ist das man direkt im **"HTML"** code zum Beispiel eine ***for-loop*** laufen lassen kann. Der oder Die oder Das Timetable hat mir am meisten nerven genommen, ich hatte so probleme die jeweiligen Daten der verschiedenen Wochen darzustellen es ging dann ging es nicht, was wichtig ist ich konnte es schlussendlich lösen.
 
-## Mittwoch, 21.04.2021
+Ich habe heute auch endlich mein Lernjournal fertigstellen können in Form von ***Markdown***, ich habe es echt genossen hier mein Lernjournal zu führen, ich weiss nicht wieso aber in ***Visual Studio Code*** das Lernjournal zu schreiben und dann wie echten Code auf das Repository zu pushen gab mir das Gefühl als würde ich entwickeln,
+
 ### Reflexion
+Heute war ein sehr efolgreicher Tag ich konnte mein Lernjournal fertigstellen es scheint die Sonne es läuft momentan echt gut mit den Aktien ich bin echt glücklich das momentan in meinem Leben alles so gut läuft es könnte immer so gut laufen und dafür werde ***ICH*** sorgen.
+
 #### Emotionen
+:smile: :smiling_face_with_three_hearts: :zany_face:
 
 # Lernprozess
 
