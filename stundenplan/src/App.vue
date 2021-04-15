@@ -1,8 +1,8 @@
 <template>
   <div id="app">
     <div>
-      <Selection/>
-      <Selection/>
+      <Selection name="Berufe" :value="occupationKey" :values="occupations" @update="occupationChanged"/>
+      <Selection name="Klassen" :value="classKey" :values="classes" @update="classChanged"/>
     </div>
     <div>
       <Pagination/>
