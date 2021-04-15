@@ -1,17 +1,29 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <div>
+      <Selection/>
+      <Selection/>
+    </div>
+    <div>
+      <Pagination/>
+    </div>
+    <div>
+      <Timetable/>
+    </div>
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import Selection from './components/Selection.vue'
+import Pagination from './components/Pagination.vue'
+import Timetable from './components/Timetable.vue'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    Selection,
+    Pagination,
+    Timetable
   }
 }
 </script>
