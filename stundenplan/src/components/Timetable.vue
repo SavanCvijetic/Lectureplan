@@ -1,3 +1,4 @@
+
 <template>
   <div>
     <div>
@@ -15,13 +16,14 @@
             </tr>
           </thead>
           <tbody>
-            <tr>
-              <td> <!--timetable.date--> </td>
-              <td> <!--timetable.date--> </td>
-              <td> <!--timetable.date--> </td>
-              <td> <!--timetable.date--> </td>
-              <td> <!--timetable.date--> </td>
-              <td> <!--timetable.date--> </td>
+            <tr v-for="timeTable in timeTables" :key="timeTable.id">
+              <td> {{ timeTable.tafel_datum }} </td>
+              <td> {{ moment(String(timeTable.tafel_von)).format('hh:mm') }} </td>
+              <td> {{ moment(String(timeTable.tafel_bis)).format('hh:mm') }} </td>
+              <td> {{ timeTable.tafel_longfach }} </td>
+              <td> {{ timeTable.tafel_lehrer }} </td>
+              <td> {{ timeTable.tafel_raum }} </td>
+              <td> {{ timeTable.tafel_kommentar }} </td>
             </tr>
           </tbody>
         </table>
@@ -29,3 +31,14 @@
     </div>
   </div>
 </template>
+
+<script>
+import moment from 'moment'
+
+export default {
+  props: { timeTables: Array },
+  setup() {
+    
+  },
+}
+</script>
