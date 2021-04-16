@@ -1,0 +1,35 @@
+@font-face {
+    font-family: "PrimeTime";
+    src: url(../font/PrimetimeRegular-vOL9.ttf);
+}
+
+body {
+    background-color: #b1b1b1;
+}
+
+h1 {
+    color: #fff;
+    font-family: PrimeTime;
+    text-shadow: 2px 2px black;
+}
+
+h2 {
+    color: #000000;
+    font-family: PrimeTime;
+    text-shadow: 2px 2px #fff;
+}
+
+.paginationButton{
+ font-family: PrimeTime;
+ border: none;
+ padding: 10px 25px;
+ color: #1e92fd;
+ text-shadow: 1px 1px black;
+
+}
+
+.paginationButton:hover{
+    padding: 10px 25px;
+    color: #eeeeee;
+    background-color: #1e92fd82;
+   }
