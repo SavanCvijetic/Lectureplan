@@ -20,7 +20,7 @@ export async function classes(id)
 
 export async function timeTable(id, calenderWeek)
 {
-    return fetch(timeTableAPI + id +'woche=' + calenderWeek)
+    return fetch(timeTableAPI + id +'&woche=' + calenderWeek)
         .then( response => response.json() )
         .then(result => { console.log('Success: ', result); })
         .catch(error => { console.error('Error: ', error);  });
