@@ -9,6 +9,8 @@ console.log(date.clone().subtract(1, 'week').format("WW-YYYY"));
 console.log(date.format("WW-YYYY"));
 console.log(date.clone().add(1, 'week').format("WW-YYYY"));
 
+const weekdays = {1: "Montag", 2: "Dienstag", 3: "Mittwoch", 4: "Donnerstag", 5: "Freitag", 6: "Samstag", 0: "Sonntag"};
+
 
 //LocalStorage auslesen
 const storageOccupation = localStorage.getItem("occupation");
@@ -87,9 +89,9 @@ $('#classSelection').on('change', function(){
 
 function fetchTimeTable() {
       const pagination =  '<div class="btn-group" role="group" aria-label="Basic example">'+
-                            '<button type="button" class="btn btn-outline-dark" id="subtractWeek"> &lt; </button>'+
-                            '<button type="button" class="btn btn-outline-dark" id="currentWeek">'+ date.format("WW-YYYY")+ '</button>'+
-                            '<button type="button" class="btn btn-outline-dark" id="addWeek"> &gt; </button>'+
+                            '<button type="button" class="btn btn-dark" id="subtractWeek"> &lt; </button>'+
+                            '<button type="button" class="btn btn-dark" id="currentWeek">'+ date.format("WW-YYYY")+ '</button>'+
+                            '<button type="button" class="btn btn-dark" id="addWeek"> &gt; </button>'+
                           '</div>';
 
     $('#pagination').append(pagination);
@@ -102,6 +104,7 @@ function fetchTimeTable() {
     var timeTableHead = '<table class="table table-striped table-dark">' +
                             '<tr>' +
                                 '<th> Datum </th>' +
+                                '<th> Tag </th>' +
                                 '<th> Von </th>' +
                                 '<th> Bis </th>' +
                                 '<th> Lehrer </th>' +
@@ -128,9 +131,10 @@ function fetchTimeTable() {
                 $('#timetable > table')
                   .append(
                   `<tr>
-                    <td>${timeTableData.tafel_datum}</td>
-                    <td>${timeTableData.tafel_von}</td>
-                    <td>${timeTableData.tafel_bis}</td>
+                    <td>${moment(timeTableData.tafel_datum).format("DD.MM.YYYY")}</td>
+                    <td>${weekdays[timeTableData.tafel_wochentag]}</td>
+                    <td>${moment(timeTableData.tafel_von, "HH:mm:ss").format("HH:mm")}</td>
+                    <td>${moment(timeTableData.tafel_bis, "HH:mm:ss").format("HH:mm")}</td>
                     <td>${timeTableData.tafel_lehrer}</td>
                     <td>${timeTableData.tafel_longfach}</td>
                     <td>${timeTableData.tafel_raum}</td>

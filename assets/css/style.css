@@ -4,18 +4,18 @@
 }
 
 body {
-    background-color: #85d2fc69;
+    background-color: #eee;
 }
 
 h1 {
     color: #2C3034;
-    font-family: PrimeTime;
-    text-shadow: 2px 2px #fff;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
 }
 
 h2 {
     color: #2C3034;
-    font-family: PrimeTime;
-    text-shadow: 2px 2px #fff;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold
 }
 
