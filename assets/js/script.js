@@ -145,28 +145,3 @@ function fetchTimeTable() {
         })
     }
 
-
-
-        // function weekGet() { return moment( moment(storageGet('date')).format('WW-YYYY') ); }
-
-        // function weekUpdate() { return $('#week').text(`Woche ${moment( moment(storageGet('date').format('WW-YYYY'))) }` ); }
-
-        // function dateFormat(dateValue) 
-        // {
-        //     const date = new Date(dateValue);
-        //     return `${date.getDate()}.${date.getMonth() + 1 > 9 ? date.getMonth() + 1 : `0${date.getMonth() + 1}`}.${date.getFullYear()}`;
-        // }
-
-        // function weekday(dayIndex) {return week[dayIndex];}
-
-        // function storageGet(key) {localStorage.getItem(key);}
-
-        // function storageSave(key, value) {localStorage.setItem(key, value);}
-
-        // function storageRemove(key) {localStorage.removeItem(key);}
-
-
-
-
-
-
